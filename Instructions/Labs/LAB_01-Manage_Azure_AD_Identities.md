@@ -187,12 +187,21 @@ In this task, you will create a new Azure AD tenant.
 
 1. In the Azure portal, search for and select **Azure Active Directory**.
 
+
+![image](https://user-images.githubusercontent.com/45279355/147427244-8445b300-3844-498f-9e8f-c263b44f3eaa.png)
+
 1. Click **Manage tenant**, and then on the next screen, click **+ Create**, and specify the following setting:
 
     | Setting | Value |
     | --- | --- |
     | Directory type | **Azure Active Directory** |
     
+![image](https://user-images.githubusercontent.com/45279355/147427280-a22a5552-3c88-474f-99e7-bd5bfd6a4309.png)
+    
+![image](https://user-images.githubusercontent.com/45279355/147427319-b35c3db9-30c5-4829-80fb-ffc71aa15a90.png)
+![image](https://user-images.githubusercontent.com/45279355/147427354-376caae8-7225-48a8-b681-54b958d60f8a.png)
+
+
 1. Click **Next : Configuration**
 
     | Setting | Value |
@@ -202,6 +211,8 @@ In this task, you will create a new Azure AD tenant.
     | Country/Region | **United States** |
 
    > **Note**: The **Initial domain name** should not be a legitimate name that potentially matches your organization or another. The green check mark in the **Initial domain name** text box will indicate that the domain name you typed in is valid and unique.
+
+![image](https://user-images.githubusercontent.com/45279355/147427376-95ddc125-744e-4c4a-aaf3-83250db6d994.png)
 
 1. Click **Review + create** and then click **Create**.
 
