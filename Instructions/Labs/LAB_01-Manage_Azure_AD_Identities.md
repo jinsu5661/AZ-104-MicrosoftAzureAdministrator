@@ -180,6 +180,8 @@ In this task, you will create Azure Active Directory groups with assigned and dy
 1. Navigate back to the **Groups - All groups** blade, click the entry representing the **IT System Administrators** group and, on then display its **Members** blade. Verify that the **az104-01a-aaduser2** appears in the list of group members.
 
 #### Task 3: Create an Azure Active Directory (AD) tenant
+![image](https://user-images.githubusercontent.com/45279355/147426866-6e0a7aeb-859a-4f23-a4c8-0f913a1cb3f2.png)
+
 
 In this task, you will create a new Azure AD tenant.
 
